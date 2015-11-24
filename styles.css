@@ -1,0 +1,24 @@
+ul {
+	list-style: none;
+}
+
+#numberValue {
+	width: 150px;
+	height: 20px;
+}
+
+#submit {
+	width: 70px;
+	height: 26px;
+	background-color: red;
+	color: white;
+	border-style: none;
+}
+
+#reset {
+	width: 70px;
+	height: 26px;
+	background-color: blue;
+	color: white;
+	border-style: none;
+}
